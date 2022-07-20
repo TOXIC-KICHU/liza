@@ -1,0 +1,20 @@
+{
+  "name": "ZIM-BOT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.1.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "pastebin-js": "^1.0.6",
+    "pino": "^7.11.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
